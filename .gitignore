@@ -1,0 +1,14 @@
+# Dataset & Generated Folders
+data_hewan/
+
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Model Files 
+*.pth
+
+# IDE Settings
+.vscode/
+.idea/
