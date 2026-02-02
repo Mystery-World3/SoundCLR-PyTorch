@@ -79,5 +79,5 @@ python predict_train.py
 ```
 ## 👤 Author
 **Muhammad Mishbahul Muflihin** *Software Engineering Student at Darussalam Gontor University*
-
+<br>
  Email: [mishbahulmuflihin@gmail.com](mailto:mishbahulmuflihin@gmail.com)
