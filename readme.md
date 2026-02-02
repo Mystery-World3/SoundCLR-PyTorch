@@ -61,7 +61,7 @@ Melatih model untuk belajar fitur suara dari data unlabeled. Output: animal_pret
 ```bash
 python train_pretrain.py
 ```
-### 3. TTraining Tahap 2 (Fine-tuning)
+### 3. Training Tahap 2 (Fine-tuning)
 Melatih classifier untuk mengenali nama hewan (Dog, Cat, dll). Output: animal_final.pth.
 ```bash
 python train_classifier.py
