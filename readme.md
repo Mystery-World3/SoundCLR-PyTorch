@@ -78,4 +78,6 @@ Ingin mengetes model dengan file suara Anda sendiri? Jalankan script ini dan dra
 python predict_train.py
 ```
 ## 👤 Author
-**Muhammad Mishbahul Muflihin** *Software Engineering Student at Darussalam Gontor University* Email: [mishbahulmuflihin@gmail.com](mailto:mishbahulmuflihin@gmail.com)
+**Muhammad Mishbahul Muflihin** *Software Engineering Student at Darussalam Gontor University*
+
+ Email: [mishbahulmuflihin@gmail.com](mailto:mishbahulmuflihin@gmail.com)
